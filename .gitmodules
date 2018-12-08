@@ -1,0 +1,3 @@
+[submodule "public/gestionale"]
+	path = public/gestionale
+	url = https://github.com/tetofonta/gestionale
