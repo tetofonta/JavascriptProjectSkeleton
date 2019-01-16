@@ -14,8 +14,15 @@ Vezzoli Luca 5DI
 
 ## Regolamento
 [x] Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
-* La documentazione andrà caricata nella sezione Wiki di questo repo.
+[x] *La documentazione andrà caricata nella sezione Wiki di questo repo.*
 [x] Il codice andrà caricato in una cartella public all'interno della root del repository
 [x] ogni partecipante dovrà essere a conoscenza di TUTTO il progetto
 * il progetto deve contenere un file .pdf con il documento di specifica dei requisiti (user story + casi uso + diagramma classi + (opzionale) un diagramma di sequenza).
 * redazione di una relazione tecnica del progetto (caricata come file .md)
+
+[ ] pdf user story
+[x] pdf usecase
+[x] pdf class diagram (TY JS Con il tuo concetto sequenziale e moduli)
+[x] pdf sequence
+[x] documentazioni in wiki
+[nella wiki?] relazione tecnica
